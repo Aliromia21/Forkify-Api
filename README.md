@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Forkify-Api
 
 ## 📖 Overview
